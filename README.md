@@ -1,20 +1,50 @@
-# ¡Hola! Soy Octavio 👋
+# ¡Hola! Soy Octavio Nicolás Leiva 👋
 
-Estudiante de **Ingeniería en Sistemas** en la UTN. Me apasiona el desarrollo de software, pero entiendo que detrás de cada línea de código hay un problema que analizar y un usuario que necesita una solución estética y funcional.
+Estudiante de 4to año de **Ingeniería en Sistemas de Información** en la UTN (FRCU). Me interesan tanto el **análisis funcional y de sistemas** como el **desarrollo de software**, entendiendo que antes de escribir una línea de código hay un problema de negocio que comprender, modelar y transformar en una solución escalable y útil para el usuario.
 
-### 🛠 Mi Enfoque
-Creo en el **puente** entre la lógica pura y el diseño creativo. No solo me gusta escribir código backend escalable, sino también entender la arquitectura de los datos y cómo el diseño mejora la experiencia de quien usa el sistema.
+🌐 **Portfolio:** [octavioleiva.vercel.app](https://octavioleiva.vercel.app)  
+💼 **LinkedIn:** [linkedin.com/in/octavio-leiva-048407288](https://www.linkedin.com/in/octavio-leiva-048407288)
 
-### 🚀 ¿Qué aporto al equipo?
-* **Desarrollo Backend (.NET/C#):** Enfocado en buenas prácticas, Entity Framework y arquitectura sólida.
-* **Análisis de Sistemas:** Me gusta entender el *porqué* de los problemas antes de resolverlos, aplicando metodologías de gestión de datos, infonomics y modelos de simulación.
-* **Visión de Diseño:** Colaboro activamente en proyectos creativos (branding, estrategia digital y diseño de interfaces), asegurando que el producto final no solo funcione bien, sino que se vea increíble.
-
-### 💻 Stack Tecnológico 
-- **Lenguajes:** C#, Pascal (Lazarus), SmallTalk, Octave,.
-- **Frameworks:** .NET, Entity Framework Core, ABP Framework.
 ---
 
-📫 ¿Quieres colaborar en algo o charlar sobre sistemas? ¡Escríbeme!
+### 🛠 Mi Enfoque
+Creo en el **puente** entre las necesidades del negocio, la lógica técnica y el diseño. Disfruto tanto relevar requerimientos, modelar datos y estructurar procesos como construir soluciones Fullstack, integrar automatizaciones e IA, y cuidar la experiencia de quien usa el sistema.
 
-- 🔗 linkedin.com/in/octavio-leiva
+### 🚀 ¿Qué aporto al equipo?
+- **Análisis Funcional y Modelado de Sistemas:** Comprensión profunda del *porqué* de cada problema antes de resolverlo, aplicando relevamiento de requerimientos, UML, modelado de datos y simulación.
+- **Desarrollo Fullstack (.NET / Angular):** Construcción de aplicaciones escalables con buenas prácticas, POO, Entity Framework Core, ABP Framework y persistencia en SQL Server / Supabase.
+- **Cloud, IA y Automatización:** Despliegue en entornos modernos, bases en arquitectura AWS, flujos automatizados (RPA/n8n) e integración de modelos de lenguaje (LLMs).
+- **Visión de Diseño (UI/UX):** Participación activa en branding, interfaces limpias y productos digitales pensados para el usuario final.
+
+---
+
+### 💻 Stack Tecnológico
+
+- **Lenguajes:** C#, SQL, Pascal (Lazarus), Smalltalk, Octave.
+- **Frameworks y Librerías:** .NET, Entity Framework Core, ABP Framework, Angular, Next.js, Tailwind CSS.
+- **Bases de Datos & BaaS:** SQL Server (SSMS), Supabase, DBeaver.
+- **Cloud, Deploy & Herramientas:** AWS (Cloud Fundamentals), Vercel, Git/GitHub, Postman, Visual Studio, VS Code, EmailJS, Resend, Antigravity.
+- **IA & Automatización:** Integración de LLMs (Ollama, Claude), RPA (TagUI, n8n).
+- **Modelado & Hardware:** UML, Simulación (Vensim, Simio, LINGO), Teoría de Autómatas, ESP32 & Arduino IDE.
+
+---
+
+### 📂 Proyectos Destacados
+- **Aplicación Web Fullstack (.NET & Angular):** Relevamiento, modelado en SQL Server y desarrollo de backend en C#/.NET con APIs REST e interfaz interactiva en Angular.
+- **Intérprete de Lenguajes de Programación:** Analizador léxico y sintáctico programado desde cero en Pascal aplicando Teoría de Autómatas.
+- 👉 *Podés ver más proyectos, demos y detalles en mi portfolio: [octavioleiva.vercel.app](https://octavioleiva.vercel.app)*
+
+---
+
+### 🎓 Formación y Certificaciones
+- **Ingeniería en Sistemas de Información** — Universidad Tecnológica Nacional (UTN - FRCU) *(2022 - Actualidad)*
+- **Curso de Inteligencia Artificial Generativa** — Escuela Internacional de Informática (XXXII CACIC) *(Certificado)*
+- **Arquitecto Nube AWS** — AWS Entrena Argentina / Capacitar
+- **Inglés:** Intermedio B1 *(Certificación Universitaria - Nivel Técnico y Conversacional)*
+
+---
+
+📫 **¿Querés colaborar en un proyecto o charlar sobre tecnología y sistemas? ¡Escribime!**
+
+- 🌐 [Portfolio Web](https://octavioleiva.vercel.app)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/octavio-leiva-048407288)
